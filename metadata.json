@@ -1,0 +1,6 @@
+{
+  "name": "AURA Studio - Interior Design & Architectural Living",
+  "description": "Sophisticated interior design studio website featuring project showcase galleries, interactive design location maps, custom consultation booking, service blueprints, and detailed client reviews with dark mode support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
